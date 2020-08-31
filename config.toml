@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://sipcraftbeer.com"
 languageCode = "en-us"
 title = "Sip Craft Beer"
 theme = "hugo-sugoi"
+publishDir = "docs"
 
 [params]
 herotitle = "Sip Craft Beer"
