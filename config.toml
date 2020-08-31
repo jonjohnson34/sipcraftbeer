@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sip Craft Beer"
+theme = "hugo-sugoi"
+
+[params]
+herotitle = "Sip Craft Beer"
+herolink = "/post"
+herolinktext = "Read them All"
+
+[hero]
+
+[menu]
+    [[menu.nav]]
+        name    = "about"
+        pre = "<i class='fas fa-home'></i>"
+        url     = "about"
+        weight  = -1
+    [[menu.nav]]
+        name    = "blog"
+        pre = "<i class='fas fa-list'></i>"
+        url     = "post"
+        weight  = -2
