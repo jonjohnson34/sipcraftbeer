@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sip Craft Beer</title>
-    <link>http://sipcraftbeer.com/tags/</link>
+    <link>https://sipcraftbeer.com/tags/</link>
     <description>Recent content in Tags on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://sipcraftbeer.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sipcraftbeer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jester King</title>
-      <link>http://sipcraftbeer.com/tags/jester-king/</link>
+      <link>https://sipcraftbeer.com/tags/jester-king/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://sipcraftbeer.com/tags/jester-king/</guid>
+      <guid>https://sipcraftbeer.com/tags/jester-king/</guid>
       <description></description>
     </item>
     
