@@ -1,4 +1,4 @@
-baseURL = "https://jonjohnson34.github.io/sipcraftbeer/"
+baseURL = "http://sipcraftbeer.com"
 languageCode = "en-us"
 title = "Sip Craft Beer"
 theme = "hugo-sugoi"

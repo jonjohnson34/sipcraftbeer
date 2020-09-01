@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sip Craft Beer</title>
-    <link>https://jonjohnson34.github.io/sipcraftbeer/categories/</link>
+    <link>http://sipcraftbeer.com/categories/</link>
     <description>Recent content in Categories on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jonjohnson34.github.io/sipcraftbeer/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sipcraftbeer.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Beer</title>
-      <link>https://jonjohnson34.github.io/sipcraftbeer/categories/beer/</link>
+      <link>http://sipcraftbeer.com/categories/beer/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jonjohnson34.github.io/sipcraftbeer/categories/beer/</guid>
+      <guid>http://sipcraftbeer.com/categories/beer/</guid>
       <description></description>
     </item>
     

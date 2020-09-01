@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sip Craft Beer</title>
-    <link>https://jonjohnson34.github.io/sipcraftbeer/</link>
+    <link>http://sipcraftbeer.com/</link>
     <description>Recent content on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jonjohnson34.github.io/sipcraftbeer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sipcraftbeer.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://jonjohnson34.github.io/sipcraftbeer/about/</link>
+      <link>http://sipcraftbeer.com/about/</link>
       <pubDate>Mon, 31 Aug 2020 19:57:09 +0530</pubDate>
       
-      <guid>https://jonjohnson34.github.io/sipcraftbeer/about/</guid>
+      <guid>http://sipcraftbeer.com/about/</guid>
       <description>This is my Site about beer.</description>
     </item>
     
     <item>
       <title>Jester King - Figlet</title>
-      <link>https://jonjohnson34.github.io/sipcraftbeer/post/jester-king-figlet/</link>
+      <link>http://sipcraftbeer.com/post/jester-king-figlet/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jonjohnson34.github.io/sipcraftbeer/post/jester-king-figlet/</guid>
+      <guid>http://sipcraftbeer.com/post/jester-king-figlet/</guid>
       <description>Here is some sample text for this one.</description>
     </item>
     
