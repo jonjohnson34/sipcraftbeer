@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Sip Craft Beer"
 theme = "hugo-sugoi"
 publishDir = "docs"
+googleAnalytics = "UA-177014336-1"
 
 [params]
 herotitle = "Sip Craft Beer"
