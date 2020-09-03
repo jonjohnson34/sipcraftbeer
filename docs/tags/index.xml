@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IPA</title>
+      <link>https://sipcraftbeer.com/tags/ipa/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/ipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mother Road</title>
+      <link>https://sipcraftbeer.com/tags/mother-road/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/mother-road/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Farmhouse</title>
+      <link>https://sipcraftbeer.com/tags/farmhouse/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/farmhouse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jester King</title>

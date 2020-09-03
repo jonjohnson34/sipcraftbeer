@@ -5,10 +5,11 @@ description: ""
 date:        2020-08-31
 author:      "Sip Craft Beer"
 image:       ""
-tags:        ["Jester King"]
+tags:        ["Jester King", "Farmhouse"]
 categories:  ["Beer" ]
 
 ---
+>"There is a freedom you feel the closer you get to Austin, Texas." - Willie Nelson
 
 If you have been to Texas Hill Country you hopefully learned about a couple of very important things, wide open spaces, the best BBQ in the world (yes, the world), and a little farmhouse just outside of Austin, TX. 
 
