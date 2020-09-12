@@ -19,6 +19,11 @@ herolinktext = "Read them All"
         url     = "about"
         weight  = -1
     [[menu.nav]]
+        name  = "contact"
+        pre = "<i class='far fa-envelope-open'></i>"
+        url     = "contact"
+        weight  = -1    
+    [[menu.nav]]
         name    = "blog"
         pre = "<i class='fas fa-list'></i>"
         url     = "post"
