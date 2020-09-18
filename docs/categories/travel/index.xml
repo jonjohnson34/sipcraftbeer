@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Sip Craft Beer</title>
+    <link>https://sipcraftbeer.com/categories/travel/</link>
+    <description>Recent content in Travel on Sip Craft Beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sipcraftbeer.com/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The heart of traveling</title>
+      <link>https://sipcraftbeer.com/post/travel-kid/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/post/travel-kid/</guid>
+      <description>“Travel changes you. As you move through this life and this world you change things slightly, you leave marks behind, however small. And in return, life — and travel — leaves marks on you.” - Anthony Bourdain
+ As long as I have been on this earth I have traveled across the country (and into a few other countries as well), it started with my family moving several times in my childhood.</description>
+    </item>
+    
+  </channel>
+</rss>

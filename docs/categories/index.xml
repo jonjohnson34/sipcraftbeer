@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Travel</title>
+      <link>https://sipcraftbeer.com/categories/travel/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/categories/travel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beer</title>

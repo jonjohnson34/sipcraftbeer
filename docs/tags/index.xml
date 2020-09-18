@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Road</title>
+      <link>https://sipcraftbeer.com/tags/on-the-road/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/on-the-road/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jolly Pumpkin</title>
