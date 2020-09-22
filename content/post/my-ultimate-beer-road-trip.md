@@ -25,9 +25,9 @@ Breweries
 - Madison
 - Milwaukee
 - Chicago
-- 3 Floyds
-- MIchigan
-- Pennsyvania
+- 3 Floyd's
+- Michigan
+- Pennsylvania
 - New England
 - North Carolina
 - Tennessee
