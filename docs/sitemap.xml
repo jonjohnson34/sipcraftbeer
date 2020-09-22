@@ -3,27 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sipcraftbeer.com/categories/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <loc>https://sipcraftbeer.com/categories/beer/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/tags/on-the-road/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <loc>https://sipcraftbeer.com/categories/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/half-acre/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post/half-acre-oktoberfest/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/marzen/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sipcraftbeer.com/post/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sipcraftbeer.com/</loc>
-    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sipcraftbeer.com/tags/</loc>
+    <lastmod>2020-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/on-the-road/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -35,11 +55,6 @@
   <url>
     <loc>https://sipcraftbeer.com/categories/travel/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/categories/beer/</loc>
-    <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
