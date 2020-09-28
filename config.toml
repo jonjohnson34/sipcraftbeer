@@ -9,6 +9,8 @@ googleAnalytics = "UA-177014336-1"
 herotitle = "Sip Craft Beer"
 herolink = "post"
 herolinktext = "Read them All"
+author = "Jon Johnson"
+
 
 [hero]
 

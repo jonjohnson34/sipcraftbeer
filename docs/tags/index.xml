@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saison</title>
+      <link>https://sipcraftbeer.com/tags/saison/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/saison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wrenhouse</title>
+      <link>https://sipcraftbeer.com/tags/wrenhouse/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/tags/wrenhouse/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Half Acre</title>
@@ -44,15 +62,6 @@
       <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sipcraftbeer.com/tags/jolly-pumpkin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saison</title>
-      <link>https://sipcraftbeer.com/tags/saison/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sipcraftbeer.com/tags/saison/</guid>
       <description></description>
     </item>
     
