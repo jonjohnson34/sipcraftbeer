@@ -13,7 +13,7 @@ categories:  ["Beer" ]
 
 This is part 2 of my bucket list beers. 
 
-1. **Blackberry Farms** - This kind of goes along with the Hills Farmstead (and the Trillium below), farmhouse brews are kind of my thing. While I enjoy all beers the idea of the beer having that terroir from the farm and the products that are possibly grown there 
+1. **Blackberry Farms** - This kind of goes along with the Hills Farmstead (and the Trillium below), farmhouse brews are kind of my thing. While I enjoy all beers the idea of the beer having that terroir from the farm and the products that are possibly grown there is the beer experience is where my love of craft beer came from in the first place.  
 
 Comparable Beer that I have had: **Blackberry Farms - Saison** - So let me explain. I have had the Saison (one bottle) in Denver so while it was an amazing Saison it was hard to say that I have had the beer since it wasn't in TN on the farm so I don't feel like I really had this beer, so on the list it stays (for now). 
 
