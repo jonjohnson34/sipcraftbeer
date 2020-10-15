@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sipcraftbeer.com/post/haiku-review-one/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sipcraftbeer.com/categories/beer/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/categories/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/newsletter/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/</loc>
+    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,27 +43,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/categories/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sipcraftbeer.com/tags/list/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/post/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/tags/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -135,10 +145,6 @@
   <url>
     <loc>https://sipcraftbeer.com/post/jester-king-figlet/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/post/newsletter-outline/</loc>
   </url>
   
 </urlset>

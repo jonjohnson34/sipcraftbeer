@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter on Sip Craft Beer</title>
+    <link>https://sipcraftbeer.com/tags/newsletter/</link>
+    <description>Recent content in Newsletter on Sip Craft Beer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sipcraftbeer.com/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bad Haiku Beer Review</title>
+      <link>https://sipcraftbeer.com/post/haiku-review-one/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/post/haiku-review-one/</guid>
+      <description>Haiku is not a shriek, a howl, a sigh, or a yawn; rather, it is the deep breath of life. ― Santōka Taneda, Mountain Tasting: Haiku and Journals of Santoka Taneda
+ Tombstone All the Hops Double IPA
+  All the hop are here
+    Make it a double for fun
+    Balanced is the key
+  Historic Pie Hole Porter</description>
+    </item>
+    
+  </channel>
+</rss>

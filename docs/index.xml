@@ -6,10 +6,24 @@
     <description>Recent content on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bad Haiku Beer Review</title>
+      <link>https://sipcraftbeer.com/post/haiku-review-one/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/post/haiku-review-one/</guid>
+      <description>Haiku is not a shriek, a howl, a sigh, or a yawn; rather, it is the deep breath of life. ― Santōka Taneda, Mountain Tasting: Haiku and Journals of Santoka Taneda
+ Tombstone All the Hops Double IPA
+  All the hop are here
+    Make it a double for fun
+    Balanced is the key
+  Historic Pie Hole Porter</description>
+    </item>
     
     <item>
       <title>Bucket List Beers - Part 2</title>
@@ -114,18 +128,6 @@ Prost!</description>
       <description>&amp;ldquo;There is a freedom you feel the closer you get to Austin, Texas.&amp;rdquo; - Willie Nelson
  If you have been to Texas Hill Country you hopefully learned about a couple of very important things, wide open spaces, the best BBQ in the world (yes, the world), and a little farmhouse just outside of Austin, TX.
 I have been fortunate enough to have been to the brewery several times and it is highly recommended when the weather is nice in the spring or fall.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sipcraftbeer.com/post/newsletter-outline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sipcraftbeer.com/post/newsletter-outline/</guid>
-      <description>title: &amp;ldquo;Newsletter - Outline&amp;rdquo; subtitle: &amp;quot;&amp;rdquo; description: &amp;quot;&amp;rdquo; date: 2020-10-12 author: &amp;ldquo;Sip Craft Beer&amp;rdquo; image: &amp;quot;&amp;rdquo; tags: [&amp;ldquo;Newsletter&amp;rdquo;] categories: [&amp;ldquo;Beer&amp;rdquo; ] Original Writing
-Bad Hikua Beer Reviews
-Links about Beer
-Links about other things</description>
     </item>
     
   </channel>
