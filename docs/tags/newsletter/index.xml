@@ -6,10 +6,27 @@
     <description>Recent content in Newsletter on Sip Craft Beer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sipcraftbeer.com/tags/newsletter/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bad Haiku Beer Review - Part Deux</title>
+      <link>https://sipcraftbeer.com/post/haiku-review-two/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sipcraftbeer.com/post/haiku-review-two/</guid>
+      <description>Genuine poetry can communicate before it is understood. —T.S. Eliot
+ Weathered Souls Brewing: Black is Beautiful
+  Cause just as good as
+    The dark sweet stout in the cans
+    Everyone should brew this
+  Prairie Artisan: Snickerdoodle Vanilla Noir
+  Fourteen percent is
+    Why I do not remember
+    Cookie flavor bourbon stout</description>
+    </item>
     
     <item>
       <title>Bad Haiku Beer Review</title>
@@ -18,11 +35,11 @@
       
       <guid>https://sipcraftbeer.com/post/haiku-review-one/</guid>
       <description>Haiku is not a shriek, a howl, a sigh, or a yawn; rather, it is the deep breath of life. ― Santōka Taneda, Mountain Tasting: Haiku and Journals of Santoka Taneda
- Tombstone All the Hops Double IPA
+ Tombstone: All the Hops Double IPA
   All the hop are here
     Make it a double for fun
     Balanced is the key
-  Historic Pie Hole Porter</description>
+  Historic: Pie Hole Porter</description>
     </item>
     
   </channel>

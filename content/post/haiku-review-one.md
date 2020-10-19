@@ -12,7 +12,7 @@ categories:  ["Beer" ]
 ― Santōka Taneda, Mountain Tasting: Haiku and Journals of Santoka Taneda
 
 
-**Tombstone All the Hops Double IPA**
+**Tombstone: All the Hops Double IPA**
 
 >>All the hop are here
 
@@ -21,7 +21,7 @@ categories:  ["Beer" ]
 >>Balanced is the key
 
 
-**Historic Pie Hole Porter**
+**Historic: Pie Hole Porter**
 
 >>Cherry and Vanilla
 
@@ -30,7 +30,7 @@ categories:  ["Beer" ]
 >>Wonderful porter
 
 
-**Modern Times Green Futures**
+**Modern Times: Green Futures**
 
 >>Beers with Nelson Hops
 
@@ -39,7 +39,7 @@ categories:  ["Beer" ]
 >>Modern Times best beer
 
 
-**Goldwater CoRn Lager**
+**Goldwater: CoRn Lager**
 
 >>American Adjunct Lager 
 
