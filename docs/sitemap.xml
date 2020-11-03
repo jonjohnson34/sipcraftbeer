@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sipcraftbeer.com/categories/beer/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/categories/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post/drinking-seasonally/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/list/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/tags/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sipcraftbeer.com/post/rules-for-craft-beer-1/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/categories/beer/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/categories/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/post/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sipcraftbeer.com/tags/rules/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/</loc>
-    <lastmod>2020-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/tags/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +64,6 @@
   
   <url>
     <loc>https://sipcraftbeer.com/post/bucket-list-beers-2/</loc>
-    <lastmod>2020-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sipcraftbeer.com/tags/list/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
