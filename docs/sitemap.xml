@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/drinking-seasonally/</loc>
+    <loc>https://sipcraftbeer.com/post_old/drinking-seasonally/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/</loc>
+    <loc>https://sipcraftbeer.com/post_old/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/rules-for-craft-beer-1/</loc>
+    <loc>https://sipcraftbeer.com/post_old/rules-for-craft-beer-1/</loc>
     <lastmod>2020-10-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/haiku-review-two/</loc>
+    <loc>https://sipcraftbeer.com/post_old/haiku-review-two/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,17 +58,17 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/haiku-review-one/</loc>
+    <loc>https://sipcraftbeer.com/post_old/haiku-review-one/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/bucket-list-beers-2/</loc>
+    <loc>https://sipcraftbeer.com/post_old/bucket-list-beers-2/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/bucket-list-beers-1/</loc>
+    <loc>https://sipcraftbeer.com/post_old/bucket-list-beers-1/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/wrenhouse-monte-vista/</loc>
+    <loc>https://sipcraftbeer.com/post_old/wrenhouse-monte-vista/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/half-acre-oktoberfest/</loc>
+    <loc>https://sipcraftbeer.com/post_old/half-acre-oktoberfest/</loc>
     <lastmod>2020-09-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +108,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/travel-kid/</loc>
+    <loc>https://sipcraftbeer.com/post_old/travel-kid/</loc>
     <lastmod>2020-09-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/jolly-pumpkin-kiviuq/</loc>
+    <loc>https://sipcraftbeer.com/post_old/jolly-pumpkin-kiviuq/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/mother-road-tower-station/</loc>
+    <loc>https://sipcraftbeer.com/post_old/mother-road-tower-station/</loc>
     <lastmod>2020-09-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,8 +163,16 @@
   </url>
   
   <url>
-    <loc>https://sipcraftbeer.com/post/jester-king-figlet/</loc>
+    <loc>https://sipcraftbeer.com/post_old/jester-king-figlet/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post_old/craft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sipcraftbeer.com/post_old/intro_rules/</loc>
   </url>
   
 </urlset>
